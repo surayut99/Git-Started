@@ -1,0 +1,14 @@
+Git Started:
+- git init
+- git config --global user.name <Your name>
+- git config --global user.email <Your email>
+- git remote add origin <Respository url>
+- git add <Your file(s)>
+- git commit -m <"Your comment">
+- git push orgin master
+
+After doing Git Started, follow these commands:
+- git add <Your file(s)>
+- git commit -m <"Your commnent">
+- git push
+
