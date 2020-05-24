@@ -16,5 +16,5 @@ To change URL of respository:
 - to check old respository >> git remote -v
 - to change to new resposity >> git remote set-url origin <New URL>
 - can check new respository >> git remote -v
-- after changing URL, if have to push, use "git push origin master" instead of "git push" for once
+- after changing URL, if have to push, use "git push --set-upstream origin master" instead of "git push" for once
 - for next pushing, can use "git push" regularyly
